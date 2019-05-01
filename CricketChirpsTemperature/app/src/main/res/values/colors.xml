@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#744213</color>
+    <color name="colorPrimaryDark">#3B160A</color>
+    <color name="colorAccent">#D81B60</color>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+</resources>
